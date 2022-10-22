@@ -1,2 +1,3 @@
 # ActorsWebScraping
-Web Scraping list of actors with academy award nominations.
+Web Scraping.ipynb:
+This file has the python code for reading in a table from a Wikipedia page. The table contains a list of actors, gender, age, number of nominations, the film, the year, and if they won. 
